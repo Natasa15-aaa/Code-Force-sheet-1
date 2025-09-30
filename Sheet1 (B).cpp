@@ -10,3 +10,4 @@ int main() {
     cout << a << "\n" << b << "\n" << c << "\n" << d << "\n" << e;
     return 0;
 }
+
